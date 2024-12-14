@@ -21,3 +21,10 @@ Discord: https://discord.gg/lb-phone
 - ❌ **fr.json**
 - ❌ **sv.json**
 <!-- Recap End -->
+
+## Locales Status:
+*1/3 locales up to date*
+- ✅ **en.json** (Base Locale - v0.3.0)
+- ❌ **fr.json**
+- ❌ **sv.json**
+<!-- Recap End -->
